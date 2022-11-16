@@ -6,6 +6,7 @@ public class MatrixMul{
 //Matrix A
        // int[][] A = {{1,2,3},{4,5,6},{7,8,9}};
        //take user input 
+        //myComment 1
          Scanner sc = new Scanner(System.in);
 
             System.out.println("Enter the number of rows in matrix A");
